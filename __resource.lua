@@ -10,4 +10,3 @@ client_scripts {
 	"util_shared.lua",
 	"admin_client.lua",
 	"gui_c.lua",
-}
